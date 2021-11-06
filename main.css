@@ -54,4 +54,12 @@ div {
   padding: 50px;
   margin: 20px;
 }
+
+.box {
+  background-color: lightgrey;
+  width: 300px;
+  border: 15px solid green;
+  padding: 50px;
+  margin: 20px;
+}
 /* Dummy comment in source code */

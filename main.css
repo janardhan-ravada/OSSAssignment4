@@ -1,25 +1,27 @@
 :root {
-  --green: #4caf50;
-  --white: #ffffff;
-  --black: #000000;
-  --crimsonRed: #aa0909;
-}
+    --green: #4CAF50;
+    --white: #ffffff;
+    --black: #000000;
+    --crimsonRed: #aa0909;
+  }
 
-* {
-  color: var(--fontColor);
-  font-family: helvetica;
-}
-body {
-  background: var(--bg);
-  background-color: var(--bgclr);
-  color: var(--clr);
-}
+  * {
+    color: var(--fontColor);
+    font-family: helvetica;
+  }
+  body {
+      background: var(--bg);
+      background-color: var(--bgclr);
+      color: var(--clr);
+      
+  }
 
 ul {
-  font-family: helvetica;
+    font-family: helvetica;
 }
 
 li {
+<<<<<<< HEAD
   list-style: circle;
 }
 
@@ -54,4 +56,5 @@ footer {
   padding: 50px;
   margin: 20px;
 }
-/* Dummy comment in source code */
+
+  /* Dummy comment in source code */
